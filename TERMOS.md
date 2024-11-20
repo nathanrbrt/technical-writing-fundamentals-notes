@@ -66,6 +66,6 @@ Evite usar **Isso** e **Aquilo** de maneira em que não fique claro ao que se re
 
 ---
   
-**Observação**: Se você caiu aqui de para-quedas e se esqueceu de algumas regrinhas básicas de gramática, relembre [neste](https://github.com/nathanrbrt/technical-writing-notes-fundamentals/blob/main/GRAMATICA-BASICA.md) repositório. 
+**Observação**: Se você caiu aqui de para-quedas e se esqueceu de algumas regrinhas básicas de gramática, relembre [neste](https://github.com/nathanrbrt/technical-writing-fundamentals-notes/blob/main/GRAMATICA-BASICA.md) repositório. 
   
 Bom estudo!
